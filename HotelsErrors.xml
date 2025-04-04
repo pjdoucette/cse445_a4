@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+    <Hotel Rating = "4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number> 
+            <Street>E. 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Philadelphia Airport Marriott</Name>
+        <Phone>215-492-9000</Phone>
+        <Address NearstAirport="Philadelphia International Airport">
+            <Number>1</Number>
+            <Street>Arrivals Rd Terminal B</Street>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <Zip>19153</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.2">
+        <Name>Inn At The Peachtrees</Name>
+        <Address NearstAirport="Hartsfield-Jackson Atlanta International Airport">
+            <Number>330</Number>
+            <Street>W Peachtree St NW</Street>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <Zip>30308</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.5">
+        <Name>Hyatt House</Name>
+        <Phone>847-864-2300</Phone>
+        <Phone>866-422-0255</Phone>
+        <Address NearstAirport="O'Hare International Airport">
+            <Number>1515</Number>
+            <Street>Chicago Ave</Street>
+            <City>Evanston</City>
+            <State>IL</State>
+            <Zip>60201</Zip>
+        
+    </Hotel>
+    <Hotel Rating="4.6">
+        <Name>Four Seasons</Name>
+        <Name>Duplicate Name Hotel</Name>
+        <Phone>213-555-7890</Phone>
+        <Phone>310-273-2222</Phone>
+        <Address NearstAirport="Los Angeles International Airport">
+            <Number>300</Number>
+            <Street>S Doheny Dr</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90048</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>InterContinental</Name>
+        <Phone>816-756-1500</Phone>
+        <Address NearstAirport="Kansas City International Airport">
+            <Number>401</Number>
+            <Street>Ward Pkwy</Street>
+            <City>Kansas City</City>
+            <State>MO</State>
+            <Zip>64112</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.1">
+        <Name>Sheraton</Name>
+        <Phone>972-929-8400</Phone>
+        <Phone>214-555-1357</Phone>
+        <Address NearstAirport="Dallas/Fort Worth International Airport">
+            <Number>4400</Number>
+            <Street>W John Carpenter Fwy</Street>
+            <City>Irving</City>
+            <State>TX</State>
+            <Zip>75063</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.6">
+        <Name>Drury Inn & Suites</Name>
+        <Phone>617-555-9753</Phone>
+        <Address NearstAirport="St. Louis Lambert International Airport">
+            <Number>10490</Number>
+            <Street> Natural Bridge Rd</Street>
+            <City>St. Louis</City>
+            <State>MO</State>
+            <Zip>63134</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Avid Hotel</Name>
+        <Phone>781-289-5000</Phone>
+        <Address NearstAirport="Boston Logan International Airport">
+            <Number>405</Number>
+            <Street>American Legion Hwy</Street>
+            <City>Revere</City>
+            <State>MA</State>
+            <Zip>02151</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.2">
+        <Name>Waldorf Astoria</Name>
+        <Phone>202-555-4321</Phone>
+        <Phone>202-695-1100</Phone>
+        <Address NearstAirport="Ronald Reagan Washington National Airport">
+            <Number>1100</Number>
+            <Street>Pennsylvania Ave NW</Street>
+            <City>Washington</City>
+            <State>DC</State>
+            <Zip>20004</Zip>
+        </Address>
+    </Hotel>
+</Hotel>
