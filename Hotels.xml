@@ -82,7 +82,7 @@
         </Address>
     </Hotel>
     <Hotel Rating="4.6">
-        <Name>Drury Inn & Suites</Name>
+        <Name>Drury Inn And Suites</Name>
         <Phone>617-555-9753</Phone>
         <Address NearstAirport="St. Louis Lambert International Airport">
             <Number>10490</Number>
